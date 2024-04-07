@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 from torch.nn import functional as F 
 
-# Hyperparameters
+# ------ Hyperparameters
 batch_size = 32
 block_size = 8
 max_iters = 3000
