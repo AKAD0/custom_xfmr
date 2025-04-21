@@ -124,7 +124,7 @@ for iter in range(max_iters):
     loss.backward()
     optimizer.step()
 ```
-# 5. Results
+# 4. Results
 Resulting transformer was taught on Shakespear's texts and was able to learn general patterns in it's body, such as the common length of a word, the script-like nature of the text and some specific words.
 <p align="center">
   <img src="https://github.com/AKAD0/custom_xfmr/blob/master/results.jpg">
