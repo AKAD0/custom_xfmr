@@ -134,7 +134,7 @@ $$
 \text{Fig.1: Transformer has learned general patterns of the text}
 $$
 
-The complete Python script is the file './script_v7_LayerNorm.py'
+The complete Python script is in the file './script_v7_LayerNorm.py'
 
 The following tasks have been performed:
 
