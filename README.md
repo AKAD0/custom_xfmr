@@ -131,7 +131,7 @@ Resulting transformer was taught on Shakespear's texts and was able to learn gen
 </p>
 
 $$
-\text{Fig.1: Transformer learned general patterns of the text}
+\text{Fig.1: Transformer has learned general patterns of the text}
 $$
 
 
